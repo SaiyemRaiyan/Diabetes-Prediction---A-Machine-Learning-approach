@@ -3,7 +3,7 @@
 ![DP](https://github.com/SaiyemRaiyan/Diabetes-Prediction---A-Machine-Learning-approach/assets/64364859/a9f4b9e4-4b8e-42f6-9bc3-d4fee9c22eb3)
 
 
-                       Overview
+                                               Overview
                                                                                           
 Dataset Overview
 Data Analysis and Preprocessing
@@ -12,7 +12,7 @@ Determining Test Size Using Cross-Validation Score
 Model Training
 Comparison & Conclusion
 
-                  Data Analysis and Preprocessing
+                                     Data Analysis and Preprocessing
                                                                            
 
 Check if there any Null values
@@ -23,7 +23,7 @@ Check the Correlation between the attributes those have large number of outlier 
 Handle the Outlier with threshold
 Replace Null values with mean
 
-                 Feature Selection
+                                       Feature Selection
                                                                                    
 Check the Correlation of Target attribute and the remaining attributes
 Combining SelectKBest with ExtraTreesClassifier
