@@ -4,11 +4,11 @@ Dataset from Kaggle of 100000 data and 769 datas.
 ![DP](https://github.com/SaiyemRaiyan/Diabetes-Prediction---A-Machine-Learning-approach/assets/64364859/a9f4b9e4-4b8e-42f6-9bc3-d4fee9c22eb3)
 
 
-                                               Overview
+                                                      Overview
                                                                                           
 Dataset Overview, Data Analysis and Preprocessing, Feature Selection, Determining Test Size Using Cross-Validation Score, Model Training, Comparison & Conclusion
 
-                                     Data Analysis and Preprocessing
+                                            Data Analysis and Preprocessing
                                                                            
 
 Check if there any Null values, Check the Duplicate values in each rows and columns, Check Unique values for each Attributes
@@ -17,7 +17,7 @@ Check if there any Null values, Check the Duplicate values in each rows and colu
 , Handle the Outlier with threshold
 , Replace Null values with mean
 
-                                       Feature Selection
+                                              Feature Selection
                                                                                    
 Check the Correlation of Target attribute and the remaining attributes
 , Combining SelectKBest with ExtraTreesClassifier
